@@ -11,3 +11,8 @@
 - ✅ Set custom password length
 - ✅ Auto-scaling UI and fonts when window is resized
 - ✅ Copy generated password to clipboard
+
+### Installation
+
+1. Clone the repository or download the source files.
+2. RUN python frontend.py

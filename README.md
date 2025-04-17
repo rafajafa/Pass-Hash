@@ -1,6 +1,6 @@
 # 🔐 Passhash
 
-**Passhash** is a simple desktop application built with Python and Tkinter that generates secure passwords based on a base password and user-selected options (uppercase letters, numbers, special characters, and length). The UI automatically resizes fonts and elements to match window size dynamically.
+**Passhash** is a simple desktop application built with Python and Tkinter that generates secure passwords based on a base password and user-selected options (uppercase letters, numbers, special characters, and length).
 
 ---
 

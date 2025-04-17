@@ -12,7 +12,7 @@
 - ✅ Auto-scaling UI and fonts when window is resized
 - ✅ Copy generated password to clipboard
 
-### Installation
+### Installation and run the app
 
 1. Clone the repository or download the source files.
 2. RUN python frontend.py
